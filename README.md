@@ -8,7 +8,15 @@ Hướng dẫn:
  - **Bước 2**: Truy cập vào trang [Ipinfo.io](https://ipinfo.io) và đăng kí 1 tài khoản
    (Vì mỗi token được giới hạn lượt truy cập free vậy nên của ông nào ông nấy tự đăng kí nha, cho thoải mái)
  - **Bước 3**: Truy cập vào [Dashboard](https://ipinfo.io/account/home) của Ipinfo và sao chép token 
+
+![image](https://user-images.githubusercontent.com/89530449/147759924-a7b38037-bc8e-4fe3-aa95-4444c2899b00.png)
+
+
  - **Bước 4**: Quay lại đoạn code, thay thế ```XXXXXXXXXXXXXX``` trong ```YOUR_TOKEN = 'XXXXXXXXXXXXXX'``` bằng token vừa sao chép
+
+![image](https://user-images.githubusercontent.com/89530449/147759830-4acdf437-7f26-4059-8e7d-fe4340df5cc9.png)
+
+
  - **Bước 5**: Truy cập Omegle và thực hiện truy cập Console trên DevTools bằng cách Sử dụng F12 hoặc Ctrl+Shift+J (Cmd+Opt+J trên Mac)
 ```
 Cách khác:
