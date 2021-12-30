@@ -23,7 +23,7 @@ sau đó vào tab Console
 
 - Bước 7: Chọn Video Chat trên Omegle và tận hưởng thôi (Khi có ai đó xuất hiện thì địa chỉ của họ sẽ hiển thị tại mục console
 
-![image](https://user-images.githubusercontent.com/89530449/147725679-96e34998-0462-45fc-908d-133f0d3cd694.png)
+![image](https://user-images.githubusercontent.com/89530449/147759254-fb2865ce-80f2-4c14-ac5b-fe2f317a2872.png)
 
 ## Have good day!
 
