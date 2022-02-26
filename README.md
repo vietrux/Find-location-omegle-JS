@@ -1,5 +1,5 @@
 # Find-location-omegle-JS
-Search User's IP and Address on Omege
+Find User's IP and Address on Omege
 
 --------------------------------------------------- -
 
