@@ -8,8 +8,8 @@ Tutorial:
  - **Step 2**: Visit [Ipinfo.io](https://ipinfo.io) page and register an account
    (Because each token is limited to free access, so you have to register by yourself)
  - **Step 3**: Go to [Dashboard](https://ipinfo.io/account/home) of Ipinfo and copy the token
-
-![image](https://user-images.githubusercontent.com/89530449/147759924-a7b38037-bc8e-4fe3-aa95-4444c2899b00.png)
+ 
+![image](https://user-images.githubusercontent.com/89530449/155847930-20fc77a4-1ec9-4d2d-af22-efc8af59a9e3.png)
 
 
  - **Step 4**: Go back to the code, replace ```XXXXXXXXXXXXXX``` in ```YOUR_TOKEN = 'XXXXXXXXXXXXXX'``` with the token just copied
