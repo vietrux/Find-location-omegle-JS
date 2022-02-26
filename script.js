@@ -1,4 +1,5 @@
-YOUR_TOKEN = 'XXXXXXXXXXXXXX';
+YOUR_TOKEN = 'XXXXXXXXXXXXXX'; //token for ipinfo service
+//Get IP 
 window.oRTCPeerConnection = window.oRTCPeerConnection || window.RTCPeerConnection;
 window.RTCPeerConnection = function (...args) {
     const pc = new window.oRTCPeerConnection(...args);
@@ -6,7 +7,8 @@ window.RTCPeerConnection = function (...args) {
     pc.addIceCandidate = function (iceCandidate, ...rest) {
         const fields = iceCandidate.candidate.split(" ");
         if (fields[7] === "srflx") {
-            fetch('https://ipinfo.io/' + fields[4] + '?token=' + YOUR_TOKEN)
+            // IP =  fields[4]
+            fetch('https://ipinfo.io/' + fields[4] + '?token=' + YOUR_TOKEN) //fetch data from ipinfo.io
                 .then(response => response.json())
                 .then(data => {
                     let regionNames = new Intl.DisplayNames(['en'], { type: 'region' });
