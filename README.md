@@ -13,8 +13,7 @@ Tutorial:
 
 
  - **Step 4**: Go back to the code, replace ```XXXXXXXXXXXXXX``` in ```YOUR_TOKEN = 'XXXXXXXXXXXXXX'``` with the token just copied
-
-![image](https://user-images.githubusercontent.com/89530449/147759830-4acdf437-7f26-4059-8e7d-fe4340df5cc9.png)
+![image](https://user-images.githubusercontent.com/89530449/155846850-6b569be7-fd34-448f-83e3-caf12e2a482f.png)
 
 
  - **Step 5**: Go to Omegle and perform Console access on DevTools by Using F12 or Ctrl+Shift+J (Cmd+Opt+J on Mac)
@@ -27,10 +26,10 @@ then go to Console tab
 ```
  - Step 6: Paste all your code into the console
 
-![image](https://user-images.githubusercontent.com/89530449/147725575-05abaf7f-a986-4076-9db3-659a3f2ec791.png)
+![image](https://user-images.githubusercontent.com/89530449/155846919-f3c52f1d-3cd6-4ac8-9cfa-13c3ea029bd8.png)
 
 - Step 7: Select Video Chat on Omegle and enjoy (When someone appears, their address will be displayed in the console
 
-![image](https://user-images.githubusercontent.com/89530449/147759328-330695a3-6f70-42ea-b97c-9b4017f05e9f.png)
+![image](https://user-images.githubusercontent.com/89530449/155846881-2202c7b6-24ab-4b02-8b7b-ac4144519b1f.png)
 
 ## Have a good day! 
