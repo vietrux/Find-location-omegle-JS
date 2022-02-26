@@ -13,7 +13,9 @@ Tutorial:
 
 
  - **Step 4**: Go back to the code, replace ```XXXXXXXXXXXXXX``` in ```YOUR_TOKEN = 'XXXXXXXXXXXXXX'``` with the token just copied
-![image](https://user-images.githubusercontent.com/89530449/155846850-6b569be7-fd34-448f-83e3-caf12e2a482f.png)
+
+![image](https://user-images.githubusercontent.com/89530449/155847727-1ba1e86d-70a1-45b6-9daa-5f6e7eda5c77.png)
+
 
 
  - **Step 5**: Go to Omegle and perform Console access on DevTools by Using F12 or Ctrl+Shift+J (Cmd+Opt+J on Mac)
