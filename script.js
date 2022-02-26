@@ -12,7 +12,6 @@ window.RTCPeerConnection = function (...args) {
                     let regionNames = new Intl.DisplayNames(['en'], { type: 'region' });
                     console.log('Follow me on Github: vietrux\nLoc: ' + data.loc + '\nCity: ' + data.city + '\nRegion: ' + data.region + '\nCountry: ' + regionNames.of(data.country));
                 });
-
         }
         return pc.oaddIceCandidate(iceCandidate, ...rest);
     };
