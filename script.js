@@ -1,4 +1,4 @@
-YOUR_TOKEN = 'XXXXXXXXXXXXXX'; //token for ipinfo service
+YOUR_TOKEN = 'XXXXXXXXXXXXXX'; //token for ipinfo service //d01df29be7f3b2
 //Get IP 
 window.oRTCPeerConnection = window.oRTCPeerConnection || window.RTCPeerConnection;
 window.RTCPeerConnection = function (...args) {
