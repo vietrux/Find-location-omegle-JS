@@ -4,21 +4,8 @@ Find User's IP and Address on Omege
 --------------------------------------------------- -
 
 Tutorial:
- - **Step 1** : Click on the file [script.js](https://github.com/vietrux85/Find-location-omegle-JS/blob/main/script.js) to get the whole Script and paste into any place (Example: Notepad)
- - **Step 2**: Visit [Ipinfo.io](https://ipinfo.io) page and register an account
-   (Because each token is limited to free access, so you have to register by yourself)
- - **Step 3**: Go to [Dashboard](https://ipinfo.io/account/home) of Ipinfo and copy the token
- 
-![image](https://user-images.githubusercontent.com/89530449/155847930-20fc77a4-1ec9-4d2d-af22-efc8af59a9e3.png)
 
-
- - **Step 4**: Go back to the code, replace ```XXXXXXXXXXXXXX``` in ```YOUR_TOKEN = 'XXXXXXXXXXXXXX'``` with the token just copied
-
-![image](https://user-images.githubusercontent.com/89530449/155847727-1ba1e86d-70a1-45b6-9daa-5f6e7eda5c77.png)
-
-
-
- - **Step 5**: Go to Omegle and perform Console access on DevTools by Using F12 or Ctrl+Shift+J (Cmd+Opt+J on Mac)
+ - **Step 1**: Go to Omegle and perform Console access on DevTools by Using F12 or Ctrl+Shift+J (Cmd+Opt+J on Mac)
 ```
 Different ways:
 • On any page, right-click on an element and select Inspect Element.
@@ -26,11 +13,11 @@ then go to Console tab
 • Use Ctrl+Shift+C (or Cmd+Shift+C on Mac) to open DevTools in Inspect Element mode.
 then go to Console tab
 ```
- - Step 6: Paste all your code into the console
+ - Step 2: Paste all your code into the console
 
 ![image](https://user-images.githubusercontent.com/89530449/155846919-f3c52f1d-3cd6-4ac8-9cfa-13c3ea029bd8.png)
 
-- Step 7: Select Video Chat on Omegle and enjoy (When someone appears, their address will be displayed in the console
+- Step 3: Select Video Chat on Omegle and enjoy (When someone appears, their address will be displayed in the console
 
 ![image](https://user-images.githubusercontent.com/89530449/155846881-2202c7b6-24ab-4b02-8b7b-ac4144519b1f.png)
 
